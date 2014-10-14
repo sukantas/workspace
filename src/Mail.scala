@@ -13,7 +13,7 @@ object Mail {
    
     val context = new VelocityContext
     context.put("userName", "sukanta")
-    context.put("password", "sukantapw")
+    context.put("password", "****")
     context.put("loginEmailId","qlwdkjas@gmail.com")
 
     println(TemplateUtil.signupEmailTemplate(context))
