@@ -4,18 +4,12 @@
         
         Below you will find important information about your account, please keep it safe.
         
-        Your Dragon Wealth experience has two portals, Dragon Wealth app and the dashboard. Both portals have different purposes and password management will be handled separately.
-        Dragon Wealth app
-        
-        The Dragon Wealth app is an html 5 website. In order to maximize your experience, you have to fix to your iPad's home screen the following link:  http://capi.dragonwealth.net/ 
-        If you don't know how to add the Dragon Wealth app to your home screen, don't worry! It's easy! We have attached a step by step guideline with many screenshots to this email.
-        Your Dragon Wealth dashboard 
-        This portal allows you to manage your company in the Dragon Wealth platform. You can invite your relationship manager colleagues, add clients, fine-tune product displays and manage the settings of your company.
-        Your can access your dashboard at the following link: http://capi.dragonwealth.net/
+      
+      
         Your login:  ${loginEmailId}
         Your password: ${password} 
-        If you have any questions, please contact us at talktous@dragonwealth.net and we will come back to you as soon as possible.
+        If you have any questions, please contact us at sukantasamanta@xyz.com and we will come back to you as soon as possible.
         Thank you for your participation, 
-        <font size="3"  color="red">Dragon Wealth</font>
+        <font size="3"  color="red">Test</font>
 
     
