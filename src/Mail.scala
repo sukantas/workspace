@@ -6,7 +6,9 @@ import org.apache.velocity.runtime.RuntimeConstants
 import org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
 import org.apache.velocity.{Template, VelocityContext}
 
-
+/**
+test....
+*/
 object Mail {
 
   def main(args: Array[String]): Unit = {
