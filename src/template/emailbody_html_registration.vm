@@ -2,10 +2,7 @@
      Dear  ${userName}, 
 
         Below you will find important information about your account, please keep it safe.
-        
-      
-      
-        Your login:  ${loginEmailId}
+       Your login:  ${loginEmailId}
         Your password: ${password} 
         If you have any questions, please contact us at sukantasamanta@xyz.com and we will come back to you as soon as possible.
         Thank you for your participation, 
