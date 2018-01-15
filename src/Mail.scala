@@ -7,7 +7,7 @@ import org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
 import org.apache.velocity.{Template, VelocityContext}
 
 /**
-test....
+test... test2.
 */
 object Mail {
 
